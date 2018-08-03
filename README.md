@@ -7,3 +7,6 @@ Distances are only between 100 and 200 m, but the receiver was placed in an offi
 direction of the field nodes. 3 of the field nodes were placed outdoors and 1 inside a greenhouse.
 Data sets (to be added soon) for mobile trials in two settings: a residential area with single story buildings, trees and some hills, 
 and a university campus with buildings of up to 5 stories and trees but no hills.
+
+A simulator for exploring energy trade-offs of LoRa parameter settings is availalbe from 
+https://github.com/websense/lorasimulator  (python code)
